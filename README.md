@@ -6,6 +6,7 @@ Questions which I am solving on Leetcode
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -28,6 +29,7 @@ Questions which I am solving on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
