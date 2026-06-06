@@ -15,6 +15,7 @@ Questions which I am solving on Leetcode
 | [0283-move-zeroes](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/UjjwalPratap7121/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/UjjwalPratap7121/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -66,8 +67,10 @@ Questions which I am solving on Leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
