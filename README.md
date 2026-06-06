@@ -11,6 +11,7 @@ Questions which I am solving on Leetcode
 | [0074-search-a-2d-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1572-matrix-diagonal-sum](https://github.com/UjjwalPratap7121/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/UjjwalPratap7121/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Questions which I am solving on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/UjjwalPratap7121/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
