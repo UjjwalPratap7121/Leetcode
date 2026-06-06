@@ -8,6 +8,7 @@ Questions which I am solving on Leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1572-matrix-diagonal-sum](https://github.com/UjjwalPratap7121/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -23,4 +24,8 @@ Questions which I am solving on Leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalPratap7121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
